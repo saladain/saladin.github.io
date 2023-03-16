@@ -53,6 +53,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-#domain: saladain.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-#url: https://saladain.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-#baseurl: C:\Users\hsala\OneDrive\Documents\GitHub\saladain.github.io\docs\_site\    # place folder name if the site is served in a subfolder
+domain: saladain.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://saladain.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: C:\Users\hsala\OneDrive\Documents\GitHub\saladain.github.io\docs\_site\    # place folder name if the site is served in a subfolder
